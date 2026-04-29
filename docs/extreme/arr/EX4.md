@@ -45,11 +45,11 @@ The fight has 6 core mechanics/attacks that make up almost the entire fight:
 6) **Crimson Cyclone**: This is the Ifrit dashes seen in Hard mode. There will be 4 copies of Ifrit that appear around the arena and the “left-most” Ifrit always dashes first.
 
 
-
-Phase 1
+### Phase 1
 
 The fight starts with the main tank pulling Ifrit to the wall (marker C) and pointing him to the right with the party grouped up behind behind the boss. Ifrit will begin cleaving the main tank and performing Incinerate which places Suppuration vulnerability stacks on them (the tanks will need to swap every 3 stacks throughout the entire fight). One of the healers will be targeted with Searing Wind and will need to move away from the party to their designated “pie slice” as seen in the images below. Searing wind causes the healer to explode 3 times over 15 seconds at which time they can return to the party and the other healer will be targeted and need to move to the opposite side of the arena.
+<img src="/extreme/arr/ifrit-sb2.webp" alt="Positioning Guidelines" width="1000"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYxNDg1ODcsLTE0MDc0NzU1MCw2OD
-AyMzA4NTVdfQ==
+eyJoaXN0b3J5IjpbMzA0ODEzMjg1LC0xNDA3NDc1NTAsNjgwMj
+MwODU1XX0=
 -->
