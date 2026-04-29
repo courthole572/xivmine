@@ -48,9 +48,17 @@ The fight has 6 core mechanics/attacks that make up almost the entire fight:
 ### Phase 1
 
 The fight starts with the main tank pulling Ifrit to the wall (marker C) and pointing him to the right with the party grouped up behind behind the boss. Ifrit will begin cleaving the main tank and performing Incinerate which places Suppuration vulnerability stacks on them (the tanks will need to swap every 3 stacks throughout the entire fight). One of the healers will be targeted with Searing Wind and will need to move away from the party to their designated “pie slice” as seen in the images below. Searing wind causes the healer to explode 3 times over 15 seconds at which time they can return to the party and the other healer will be targeted and need to move to the opposite side of the arena.
-<img src="/extreme/arr/ifrit-sb2.webp" alt="Positioning Guidelines" width="330"/>
 
+<img src="/extreme/arr/ifrit-sb2.webp" alt="Formation Guidelines" width="330"/>
+
+<img src="/extreme/arr/ifrit-sb3.webp" alt="Positioning" width="330"/>
+
+<img src="/extreme/arr/ifrit-sb4.webp" alt="Searing Wind" width="330"/>
+
+Three DPS will then be targeted with ***Eruption***. There is no telegraph for which players will be targeted so the easiest course of action is to have all DPS move together along the wall away from Ifrit to bait the 3 explosions away from the main tank and searing wind healer. The off tank and non-searing wind healer can join the DPS or they can simply move out of the first eruption and then return to their spot behind the boss. It is important to make sure that no one ever steps in front of the boss or moves centre to dodge the eruptions because the cleaves or searing wind will cause high damage or kill the player. Also, none of the DPS should be sprinting while baiting the eruptions along the wall. Sprinting can cause some eruptions to get ahead of the others which will kill players who are not sprinting. The image below shows how to bait and dodge ***Eruption***.
+
+<img src="/extreme/arr/ifrit-sb5.webp" alt="Eruption Baits" width="330"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTQ2MDQ4OSwtMTQwNzQ3NTUwLDY4MD
+eyJoaXN0b3J5IjpbLTU2MTU5MTc0NiwtMTQwNzQ3NTUwLDY4MD
 IzMDg1NV19
 -->
