@@ -27,8 +27,8 @@ Some of the strategies in this video may differ from what is presented in the gu
 
 ## Detailed Guide
 
-<img src="docs/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
+<img src="/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMjMwODU1XX0=
+eyJoaXN0b3J5IjpbLTE0MDc0NzU1MCw2ODAyMzA4NTVdfQ==
 -->
