@@ -8,3 +8,6 @@ sidebar_custom_props:
 ---
 
 ![Ifrit](/extreme/arr/ex4-banner.webp)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI3Mjk5NTQ0MF19
+-->
