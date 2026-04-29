@@ -19,10 +19,10 @@ sidebar_custom_props:
 
 ### Video Guide
 
-
+https://www.youtube.com/embed/?v=__bGIf3HFuk
 
 <img src="docs/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjYxNjI2N119
+eyJoaXN0b3J5IjpbMTAyNzYyMDIyM119
 -->
