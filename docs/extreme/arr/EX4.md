@@ -15,7 +15,7 @@ sidebar_custom_props:
 ## Suggested Resources
 
 ### Markers
-<img src="/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="330"/>
+<img src="/xivmine/docs/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="330"/>
 
 ### Strategy Board Code
 [stgy:a-sLrvCRPQwmKXbz5irnosFRpamqZ27YP92pkkyBTndfjenlF7OvaytmoAzKlx2hgHeTUhXKwiGhGIlpXMS9AqcobJ8JuKXCe+WXdc59kTqP0ME6e0wwisrh1ExoT-MzCuBINEOcV8JBXcW4gUywdSxnRGG8Dcze6BUXO+MrKUda37s3IpSy7OC3bKjGJp2O74tD5ntLNpiNji0Sr+G9FMyTCXJfpD2aUdUaF6Lr+wlIoCHysmSJyVIMWr-bpLaUzyeaNSll3uwfJqS5MZHFNa9y2TW75WmOebjlv1A0STmpe0B8cPMKNE6MppcAfO27AofFOaj6li7dVhg2cFtWGc9CJBFFILYHnRxjkyfypJYlj]
@@ -77,6 +77,6 @@ This phase is identical to Phase 2 except that the safe spots for ***Radiant Plu
 
 After ***Hellfire***, there will be one last ***Radiant Plume*** with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final ***Hellfire*** as a hard enrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE3MzAxMywtMTQwNzQ3NTUwLDY4MD
-IzMDg1NV19
+eyJoaXN0b3J5IjpbNTUzNTMyMTQ0LDEyMDAxNzMwMTMsLTE0MD
+c0NzU1MCw2ODAyMzA4NTVdfQ==
 -->
