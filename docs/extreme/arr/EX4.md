@@ -27,8 +27,22 @@ Some of the strategies in this video may differ from what is presented in the gu
 
 ## Detailed Guide
 
+The fight has 6 core mechanics/attacks that make up almost the entire fight:
+
+1) **Tank Busters**: The tanks will keep the boss at the border of the arena at all times. Ifrit will constantly use a conical tank buster on the main tank that will require a tank swap at 2 or 3 ***Suppuration*** stacks as it builds up vulnerability. This has no telegraph but follows a specific cadence that healers and tank will have to memorize and get a feel for in order to not be surprised by instantly dead tanks. A dead tank generally wipes the fight.
+
+2) **Baited Eruptions**: Eruptions will occasionally telegraph themselves under players by faint cracks in the ground just like the Hard. These can be baited and will follow the players. You need to make sure you are not hitting the tanks with them and avoiding the healer explosions.
+
+3) **Healer Swaps**: Healers will perpetually be marked with a single ***Searing Wind*** debuff that acts as a massive time bomb and needs to be brought to the opposite side of the arena that the boss is on, while still being in healing range. The time bomb will alternate healers, requiring each healer to move to and fro between the party cluster and the opposite side of the arena. These explosions will cause massive damage to anyone else caught in them. The timing can be memorized and predicted. The constant movement in this fight makes hardcast raises extremely difficult.
+
+4) Radiant Plumes: On 2 occasions the boss will activate massive fire plumes leaving only 2 tiny safe spots on the edges of the arena. These safe spots are static but if you are not pre-positioned you do NOT have enough time to get to safety and it will kill you.
+
+5) Infernal  Nails: The boss will summon nails that act as a brutally difficult DPS check on many small targets and need to be killed in a specific order and at a specific rhythm, as each one causes a massive raidwide with temporary vulnerability up.
+
+6) Crimson Cyclone: This is the Ifrit dashes seen in Hard mode. There will be 4 copies of Ifrit that appear around the arena and the “left-most” Ifrit always dashes first.
 <img src="/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc0NzU1MCw2ODAyMzA4NTVdfQ==
+eyJoaXN0b3J5IjpbLTExOTcyMTc2MDcsLTE0MDc0NzU1MCw2OD
+AyMzA4NTVdfQ==
 -->
