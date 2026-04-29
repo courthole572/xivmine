@@ -10,8 +10,7 @@ sidebar_custom_props:
 ![Ifrit](/extreme/arr/ex4-banner.webp)
 
 >Written By:
->Sykes Two@Kraken
->Nienna Wynstone@Kraken
+>Sykes Two@Kraken and Nienna Wynstone@Kraken
 
 ## Suggested Resources
 
@@ -78,6 +77,6 @@ This phase is identical to Phase 2 except that the safe spots for ***Radiant Plu
 
 After ***Hellfire***, there will be one last ***Radiant Plume*** with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final ***Hellfire*** as a hard enrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTA0MTIzNCwtMTQwNzQ3NTUwLDY4MD
+eyJoaXN0b3J5IjpbMTIwMDE3MzAxMywtMTQwNzQ3NTUwLDY4MD
 IzMDg1NV19
 -->
