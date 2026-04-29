@@ -19,10 +19,16 @@ sidebar_custom_props:
 
 ### Video Guide
 
+:::warning
+Some of the strategies in this video may differ from what is presented in the guide and raidplan. It is recommended to clarify what strategies you are using with your team to avoid any confusion.
+:::
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/__bGIf3HFuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Detailed Guide
 
 <img src="docs/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzUyNTA0XX0=
+eyJoaXN0b3J5IjpbNjgwMjMwODU1XX0=
 -->
