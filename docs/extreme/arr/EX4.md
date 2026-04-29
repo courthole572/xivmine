@@ -67,16 +67,16 @@ Shortly after ***Hellfire***, ***Radiant Plume*** will cast over the arena leavi
   
 The tanks will need to continue to swap every 3 ***Suppuration*** stacks and the healers will continue to alternate taking ***Searing Wind*** away from the party.
 
-This time, 9 ***Infernal Nails*** will spawn around the arena. As before, the main tank will gradually move Ifrit clockwise along the wall while the rest of the party DPS down the nails behind the boss. If there are 2 nails in line with one another, we DPS the inner nail first, then the outer, then move to the next nail clockwise. The nails in this phase are also paired with ***Infernal Fetters***, a tether joining the off tank at the time with a DPS. If these players get too far apart, they will suffer massive damage. Unfortunately, there will likely need to be a tank swap while the chain is active so the DPS player will need to stand under Ifrit at the back of his hitbox to keep the chain short but also avoid the cleaves on the new main tank. If the nails are not destroyed by the next Hellfire cast, the party will wipe.
+This time, 9 ***Infernal Nails*** will spawn around the arena. As before, the main tank will gradually move Ifrit clockwise along the wall while the rest of the party DPS down the nails behind the boss. If there are 2 nails in line with one another, we DPS the inner nail first, then the outer, then move to the next nail clockwise. The nails in this phase are also paired with ***Infernal Fetters***, a tether joining the off tank at the time with a DPS. If these players get too far apart, they will suffer massive damage. Unfortunately, there will likely need to be a tank swap while the chain is active so the DPS player will need to stand under Ifrit at the back of his hitbox to keep the chain short but also avoid the cleaves on the new main tank. If the nails are not destroyed by the next ***Hellfire*** cast, the party will wipe.
 
-Phase 3
+### Phase 3
 
-This phase is identical to Phase 2 except that the safe spots for Radiant Plume following Hellfire will be at markers B and 2 and there will be 13 Infernal Nails, one of which is a massive nail in the middle of the arena. The party will again follow the tank clockwise around the arena while they DPS down the nails and then focus the big centre nail last. Melee LB3 can be used on the centre nail or caster/ranged LB3 can be used to hit the centre nail and 1 or 2 others. Keep in mind that the nails do raid-wide damage and cause vulnerability when destroyed so you do not want to kill too many at once. Once again, the phase will end with Hellfire that will wipe the party if any of the nails are still standing.
+This phase is identical to Phase 2 except that the safe spots for ***Radiant Plume*** following ***Hellfire*** will be at markers B and 2 and there will be 13 ***Infernal Nails***, one of which is a massive nail in the middle of the arena. The party will again follow the tank clockwise around the arena while they DPS down the nails and then focus the big centre nail last. Melee LB3 can be used on the centre nail or caster/ranged LB3 can be used to hit the centre nail and 1 or 2 others. Keep in mind that the nails do raid-wide damage and cause vulnerability when destroyed so you do not want to kill too many at once. Once again, the phase will end with ***Hellfire*** that will wipe the party if any of the nails are still standing.
 
-Phase 4
+### Phase 4
 
-After Hellfire, there will be one last Radiant Plume with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final Hellfire as a hard enrage.
+After ***Hellfire***, there will be one last ***Radiant Plume*** with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final ***Hellfire*** as a hard enrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNjk4NTQyLC0xNDA3NDc1NTAsNjgwMj
-MwODU1XX0=
+eyJoaXN0b3J5IjpbLTU4NDI5NTY2OCwtMTQwNzQ3NTUwLDY4MD
+IzMDg1NV19
 -->
