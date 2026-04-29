@@ -8,6 +8,9 @@ sidebar_custom_props:
 ---
 
 ![Ifrit](/extreme/arr/ex4-banner.webp)
+
+
+<img src="/extreme/arr/ifrit-sb1.webp" alt="" width="CHANGE THIS TO WHATEVER FITS WELL"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mjk5NTQ0MF19
+eyJoaXN0b3J5IjpbMTY5MDEwMDgzNl19
 -->
