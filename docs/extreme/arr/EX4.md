@@ -19,10 +19,10 @@ sidebar_custom_props:
 
 ### Video Guide
 
-https://www.youtube.com/embed/?v=__bGIf3HFuk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__bGIf3HFuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="docs/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzYyMDIyM119
+eyJoaXN0b3J5IjpbODgxNzUyNTA0XX0=
 -->
