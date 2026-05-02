@@ -15,7 +15,7 @@ sidebar_custom_props:
 ## Suggested Resources
 
 ### Markers
-<img src="/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="330"/>
 
 ### Strategy Board Code
 [stgy:a-sLrvCRPQwmKXbz5irnosFRpamqZ27YP92pkkyBTndfjenlF7OvaytmoAzKlx2hgHeTUhXKwiGhGIlpXMS9AqcobJ8JuKXCe+WXdc59kTqP0ME6e0wwisrh1ExoT-MzCuBINEOcV8JBXcW4gUywdSxnRGG8Dcze6BUXO+MrKUda37s3IpSy7OC3bKjGJp2O74tD5ntLNpiNji0Sr+G9FMyTCXJfpD2aUdUaF6Lr+wlIoCHysmSJyVIMWr-bpLaUzyeaNSll3uwfJqS5MZHFNa9y2TW75WmOebjlv1A0STmpe0B8cPMKNE6MppcAfO27AofFOaj6li7dVhg2cFtWGc9CJBFFILYHnRxjkyfypJYlj]
@@ -49,9 +49,9 @@ The fight has 6 core mechanics/attacks that make up almost the entire fight:
 
 The fight starts with the main tank pulling Ifrit to the wall (marker C) and pointing him to the right with the party grouped up behind behind the boss. Ifrit will begin cleaving the main tank and performing Incinerate which places Suppuration vulnerability stacks on them (the tanks will need to swap every 3 stacks throughout the entire fight). One of the healers will be targeted with Searing Wind and will need to move away from the party to their designated “pie slice” as seen in the images below. Searing wind causes the healer to explode 3 times over 15 seconds at which time they can return to the party and the other healer will be targeted and need to move to the opposite side of the arena.
 
-<img src="/extreme/arr/ifrit-sb2.webp" alt="Formation Guidelines" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb2.webp" alt="Formation Guidelines" width="330"/>
 
-<img src="/extreme/arr/ifrit-sb3.webp" alt="Positioning" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb3.webp" alt="Positioning" width="330"/>
 
 <img src="/extreme/arr/ifrit-sb4.webp" alt="Searing Wind" width="330"/>
 
@@ -77,6 +77,6 @@ This phase is identical to Phase 2 except that the safe spots for ***Radiant Plu
 
 After ***Hellfire***, there will be one last ***Radiant Plume*** with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final ***Hellfire*** as a hard enrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE3MzAxMywxMjAwMTczMDEzLC0xND
-A3NDc1NTAsNjgwMjMwODU1XX0=
+eyJoaXN0b3J5IjpbLTExMDYzNzI2MDIsMTIwMDE3MzAxMywxMj
+AwMTczMDEzLC0xNDA3NDc1NTAsNjgwMjMwODU1XX0=
 -->
