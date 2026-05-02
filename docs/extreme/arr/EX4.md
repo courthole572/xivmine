@@ -15,7 +15,7 @@ sidebar_custom_props:
 ## Suggested Resources
 
 ### Markers
-<img src="/static/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb1.webp" alt="Hellfire Safe Spot Markers" width="500"/>
 
 ### Strategy Board Code
 [stgy:a-sLrvCRPQwmKXbz5irnosFRpamqZ27YP92pkkyBTndfjenlF7OvaytmoAzKlx2hgHeTUhXKwiGhGIlpXMS9AqcobJ8JuKXCe+WXdc59kTqP0ME6e0wwisrh1ExoT-MzCuBINEOcV8JBXcW4gUywdSxnRGG8Dcze6BUXO+MrKUda37s3IpSy7OC3bKjGJp2O74tD5ntLNpiNji0Sr+G9FMyTCXJfpD2aUdUaF6Lr+wlIoCHysmSJyVIMWr-bpLaUzyeaNSll3uwfJqS5MZHFNa9y2TW75WmOebjlv1A0STmpe0B8cPMKNE6MppcAfO27AofFOaj6li7dVhg2cFtWGc9CJBFFILYHnRxjkyfypJYlj]
@@ -49,15 +49,15 @@ The fight has 6 core mechanics/attacks that make up almost the entire fight:
 
 The fight starts with the main tank pulling Ifrit to the wall (marker C) and pointing him to the right with the party grouped up behind behind the boss. Ifrit will begin cleaving the main tank and performing Incinerate which places Suppuration vulnerability stacks on them (the tanks will need to swap every 3 stacks throughout the entire fight). One of the healers will be targeted with Searing Wind and will need to move away from the party to their designated “pie slice” as seen in the images below. Searing wind causes the healer to explode 3 times over 15 seconds at which time they can return to the party and the other healer will be targeted and need to move to the opposite side of the arena.
 
-<img src="/static/extreme/arr/ifrit-sb2.webp" alt="Formation Guidelines" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb2.webp" alt="Formation Guidelines" width="500"/>
 
-<img src="/static/extreme/arr/ifrit-sb3.webp" alt="Positioning" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb3.webp" alt="Positioning" width="500"/>
 
-<img src="/extreme/arr/ifrit-sb4.webp" alt="Searing Wind" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb4.webp" alt="Searing Wind" width="500"/>
 
 Three DPS will then be targeted with ***Eruption***. There is no telegraph for which players will be targeted so the easiest course of action is to have all DPS move together along the wall away from Ifrit to bait the 3 explosions away from the main tank and searing wind healer. The off tank and non-searing wind healer can join the DPS or they can simply move out of the first eruption and then return to their spot behind the boss. It is important to make sure that no one ever steps in front of the boss or moves centre to dodge the eruptions because the cleaves or searing wind will cause high damage or kill the player. Also, none of the DPS should be sprinting while baiting the eruptions along the wall. Sprinting can cause some eruptions to get ahead of the others which will kill players who are not sprinting. The image below shows how to bait and dodge ***Eruption***.
 
-<img src="/extreme/arr/ifrit-sb5.webp" alt="Eruption Baits" width="330"/>
+<img src="/static/extreme/arr/ifrit-sb5.webp" alt="Eruption Baits" width="500"/>
 
 Four ***Infernal Nails*** will appear around the arena that need to be destroyed. The main tank at the time should pull ifrit clockwise around the wall of the arena while the rest of the group DPS follow along and DPS down the nails behind Ifrit. Again, be sure never to walk in front of Ifrit because his cleaves will kill any non-tanks. Each nail will do raid-wide damage and place a short vulnerability stack on the party when it is killed so it is best not to kill multiple nails at once. These nails need to be killed before Ifrit casts ***Hellfire*** or the party will wipe.
 
@@ -77,6 +77,6 @@ This phase is identical to Phase 2 except that the safe spots for ***Radiant Plu
 
 After ***Hellfire***, there will be one last ***Radiant Plume*** with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final ***Hellfire*** as a hard enrage.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYzNzI2MDIsMTIwMDE3MzAxMywxMj
+eyJoaXN0b3J5IjpbLTEwOTM4NTU2NDUsMTIwMDE3MzAxMywxMj
 AwMTczMDEzLC0xNDA3NDc1NTAsNjgwMjMwODU1XX0=
 -->
