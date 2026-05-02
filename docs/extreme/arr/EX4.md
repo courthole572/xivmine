@@ -76,7 +76,3 @@ This phase is identical to Phase 2 except that the safe spots for ***Radiant Plu
 ### Phase 4
 
 After ***Hellfire***, there will be one last ***Radiant Plume*** with safe spots around C and 3 and then we DPS down the boss as quickly as possible before he can cast one final ***Hellfire*** as a hard enrage.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM4NTU2NDUsMTIwMDE3MzAxMywxMj
-AwMTczMDEzLC0xNDA3NDc1NTAsNjgwMjMwODU1XX0=
--->
